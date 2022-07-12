@@ -1,7 +1,7 @@
 # Demographic-Data-Analyzer
+In this project, it was necessary to import a database (adult.data.csv) and answer the following questions:
 
-
-## In this project, it was necessary to import a database (adult.data.csv) and answer the following questions:
+## Questions:
 
 1) How many people of each race are represented in this dataset? This should be a Pandas series with race names as the index labels. (race column)
 2) What is the average age of men?
@@ -14,7 +14,7 @@
 9) Identify the most popular occupation for those who earn >50K in India.
 
 
-## And the answers obtained from my code were:
+## Answer code:
 
 1) Number of each race: [27816, 3124, 1039, 311, 271]
 2) Average age of men: 39.4
