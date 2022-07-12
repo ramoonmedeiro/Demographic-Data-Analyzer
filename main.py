@@ -1,4 +1,6 @@
-# This entrypoint file to be used in development. Start by reading README.md
+# coded by Ramon Medeiro. Please use this content only to knowledge. Try to do this project yourself.
+# FREECODECAMP project 1.
+
 import demographic_data_analyzer
 
 # Test your function by calling it here
