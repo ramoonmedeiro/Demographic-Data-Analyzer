@@ -1,4 +1,5 @@
 # Demographic-Data-Analyzer
+
 In this project, it was necessary to import a database (adult.data.csv) and answer the following questions:
 
 ## Questions:
@@ -14,7 +15,7 @@ In this project, it was necessary to import a database (adult.data.csv) and answ
 9) Identify the most popular occupation for those who earn >50K in India.
 
 
-## Answer code:
+## Answers from code in python:
 
 1) Number of each race: [27816, 3124, 1039, 311, 271]
 2) Average age of men: 39.4
