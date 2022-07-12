@@ -1,5 +1,7 @@
 # Demographic-Data-Analyzer
 
+The full project can be seen here: https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer
+
 In this project, it was necessary to import a database (adult.data.csv) and answer the following questions:
 
 ## Questions:
